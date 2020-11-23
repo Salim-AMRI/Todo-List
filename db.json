@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "javascript"
+    },
+    {
+      "id": 3,
+      "title": "react"
+    },
+    {
+      "id": 4,
+      "title": "redux"
+    },
+    {
+      "id": 5,
+      "title": "nodejs"
+    },
+    {
+      "title": {},
+      "id": 6
+    },
+    {
+      "title": {},
+      "id": 7
+    },
+    {
+      "title": {},
+      "id": 8
+    },
+    {
+      "title": {},
+      "id": 9
+    }
+  ]
+}

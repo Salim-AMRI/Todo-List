@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+input{
+  margin-top: 20px;
+  margin-right: 20px;
+  height: 30px;
+  width: 250px;
+}
+
+button{
+  height: 36px;
+  background-color: blue;
+  color: aliceblue;
+  border: none;
+  font-size: medium;
+  cursor: pointer;
+}
+
